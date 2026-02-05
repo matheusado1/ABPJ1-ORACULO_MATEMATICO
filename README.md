@@ -20,7 +20,7 @@ Projeto simples desenvolvido em Python com o objetivo de ajudar no controle fina
 
 ## Como executar o projeto
 
-. Ter o Python 3 instalado
+. Ter o Python instalado
 
 . Baixe este repositório
 
