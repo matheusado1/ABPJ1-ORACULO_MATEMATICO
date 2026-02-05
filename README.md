@@ -11,9 +11,6 @@ Projeto simples desenvolvido em Python com o objetivo de ajudar no controle fina
 
 💰 Calcular e exibir saldo atual
 
-📊 Exibir relatório financeiro completo
-
-🚪 Opção para sair do sistema
 
 ##  Tecnologias Utilizadas
 
