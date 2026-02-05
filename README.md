@@ -3,7 +3,7 @@
 ## Resumo 
 Projeto simples desenvolvido em Python com o objetivo de ajudar no controle financeiro pessoal, permitindo o registro de receitas, despesas, visualização de saldo e geração de relatório financeiro básico.
 
-## ✨ Fluxograma
+## Fluxograma
 ![Fluxograma.png](Fluxograma.png)
 
 ## Funcionalidades
